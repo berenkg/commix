@@ -1,3 +1,5 @@
+<h1>Basit Kullanım:</h1>
+<p>commix --url="http://192.168.171.130/dvwa/vulnerabilities/exec/#" --cookie="security=high; PHPSESSID=18bcebd37395bfc834b2eeda3c59c82d" --data="ip=8.8.8.8&submit=submit"</p>
 <p align="center">
   <img alt="CommixProject" src="https://camo.githubusercontent.com/41258687d868cf76951a37f6be7961c4c862dfb3/687474703a2f2f692e696d6775722e636f6d2f6c4b6762336c712e706e67" height="142" />
   <p align="center">
